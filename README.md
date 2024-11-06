@@ -4,7 +4,9 @@ A web application which were called as the “Chill Out Fast Food Delivery”. C
 
 ## Aims & Objectives
 ● To create a web application that provide ordering system to enable user order menu.
+
 ● To storing information that related to fast food where can promote their services.
+
 ● To provide efficient and mainstream user-friendly web application that is directly easy to use.
 
 ## Purpose
