@@ -1,4 +1,4 @@
-# Chill Out Fast Food Delivery (html, css, js, php)
+# Chill Out Fast Food Delivery (HTML, CSS, JS & PHP)
 
 A web application which were called as the “Chill Out Fast Food Delivery”. Chill Out Fast Food Delivery is database driven web application that focus on e-commerce website where customer can order the menu through the web application using the database for storing and retrieve the information. This will be further explained in the system specification.
 
